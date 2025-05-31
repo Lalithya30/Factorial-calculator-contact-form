@@ -1,4 +1,4 @@
-# Factorial-calculator-contact-form
+# Factorial-contact-form
 
 ## Overview
 
